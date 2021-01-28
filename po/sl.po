@@ -679,7 +679,7 @@ msgstr "Lahko prikaže rezultate primerjave map v drevesnem slogu prikaza"
 
 #: index.php:48
 msgid "3-way Folder Comparison"
-msgstr "3-smerna primerjava map"
+msgstr "Primerjava treh map"
 
 #: index.php:50
 msgid "Image Compare"
@@ -1196,43 +1196,43 @@ msgstr "Slovenščina"
 
 #: support/index.php:5
 msgid "The Open Discussion forum is the fastest way to get help."
-msgstr ""
+msgstr "Forum Odprta razprava je najhitrejši način za pomoč."
 
 #: support/index.php:6
-msgid ""
-"WinMerge, support, discussion forums, tracker, donate, bugs, support "
+msgid "WinMerge, support, discussion forums, tracker, donate, bugs, support "
 "requests, patches, feature requests, todo, open source"
-msgstr ""
+msgstr "WinMerge, podpora, forumi za razprave, sledilnik, darovanje, napake, " 
+"zahteve za podporo, popravki, zahteve za funkcije, todo, odprtokodni"
 
 #: support/index.php:10
 msgid "The <b>Discussion forums</b> are the fastest way to get help:"
-msgstr ""
+msgstr "<b>Forumi za razpravo</b> so najhitrejši način, da dobite pomoč:"
 
 #: support/index.php:13
 msgid "WinMerge discussions"
-msgstr ""
+msgstr "WinMerge razprave"
 
 #: support/index.php:14
 msgid "Image Compare discussions"
-msgstr ""
+msgstr "Razprave o primerjavi slik"
 
 #: support/index.php:15
 msgid "Website discussions"
-msgstr ""
+msgstr "Razprave o spletnih straneh"
 
 #: support/index.php:17
 msgid "Please be patient, it may take some time for somebody to answer."
-msgstr ""
+msgstr "Bodite potrpežljivi, morda bo trajalo nekaj časa, da bo nekdo odgovoril. "
 
 #: support/index.php:19
 msgid "Issues"
-msgstr ""
+msgstr "Vprašanja "
 
 #~ msgid ""
 #~ "The Open Discussion forum is the fastest way to get help. A other way is a "
 #~ "subscription to the support mailing list."
 #~ msgstr ""
-#~ "Odprti forum za razpravo je najhitrejši način za pomoč. Drugi način je "
+#~ "Odprti forum za razpravo je najhitrejši način, da dobite pomoč. Drugi način je "
 #~ "naročnina na poštni seznam za podporo."
 
 #~ msgid ""
